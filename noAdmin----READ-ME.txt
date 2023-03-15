@@ -1,0 +1,7 @@
+1. import 'publication_log.sql' in your phpmyadmin.
+
+2. open terminal in project and type: composer require awobaz/compoships 
+-> this is used to support composite foreign keys in relationships between models.
+
+
+
